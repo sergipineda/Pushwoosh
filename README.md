@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pushwoosh_demo
 
 > A Vue.js project
@@ -22,3 +23,6 @@ npm test
 ```
 
 For more information see the [docs for vueify](https://github.com/vuejs/vueify).
+=======
+# Pushwoosh
+>>>>>>> a8bd09d461cd8d9a35bbc41a8b15680e2bf0d510
